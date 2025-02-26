@@ -1,0 +1,49 @@
+.title {
+    color: whitesmoke;
+}
+
+h1 {
+    background-color: darkblue;
+}
+
+h2 {
+    background-color: blue;
+}
+
+h3 {
+    background-color: cornflowerblue;
+}
+
+h4 {
+    background-color: lightblue;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 1em;
+}
+
+p.first-line {
+    text-indent: 5em;
+}
+
+.recipe-list-item {
+    width: 400px;
+    padding: 1em;
+    border: 5px solid black;
+    background-color: darkcyan;
+    color: white;
+    font-size: 10px
+}
+
+.recipe-list-item#first-recipe {
+    font-size: 20px;
+}
+
+#second-recipe {
+    font-size: 25px;
+}
+
+#third-recipe {
+    font-size: 30px;
+}
